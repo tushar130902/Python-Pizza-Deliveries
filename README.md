@@ -23,11 +23,8 @@ A beginner-friendly Python project that calculates the total pizza bill based on
 
 1. Clone this repository.
 2. Open the project in VS Code.
-3. Run the following command:
 
-```bash
-python main.py
-```
+
 
 ## Author
 Python Beginner Developer
